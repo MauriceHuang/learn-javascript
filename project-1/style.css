@@ -1,0 +1,12 @@
+body {
+  padding: 4rem;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+p > span {
+  color: red;
+}
+button {
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+}
