@@ -1,0 +1,35 @@
+body {
+  font-family: sans-serif;
+}
+
+#counter {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  border: 1px solid green;
+}
+
+#counterDisplay {
+  font-size: 3rem;
+  text-align: center;
+  /* color: white; */
+  border: 1px solid black;
+}
+
+#counterControls {
+  background-color: green;
+  border: 1px solid red;
+}
+
+#counter button {
+  padding: 0.5rem 1rem;
+  border-radius: 0.5rem;
+  cursor: pointer;
+}
+
+#counterAdd {
+  background-color: chartreuse;
+}
+#counterSub {
+  background-color: red;
+}
